@@ -1,5 +1,6 @@
 package main
 
+// https://leetcode.com/problems/partition-labels/description/
 import (
 	"fmt"
 	"math"
